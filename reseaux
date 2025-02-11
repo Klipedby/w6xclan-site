@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>W6X Clan - Réseaux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        img {
+            width: 150px;
+            border-radius: 10px;
+        }
+        .social-links {
+            margin-top: 20px;
+        }
+        .social-links a {
+            display: inline-block;
+            margin: 10px;
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="image.png" alt="W6X Clan Logo">
+        <h1>Suivez-nous sur nos réseaux !</h1>
+        <div class="social-links">
+            <a href="https://www.tiktok.com/@w6xclan.esport?_t=ZN-8tmK3gKsbUk&_r=1" target="_blank">TikTok</a>
+            <a href="https://x.com/w6x_clan_esport?s=21" target="_blank">Twitter</a>
+            <a href="https://www.twitch.tv/w6xclanesportfr" target="_blank">Twitch</a>
+            <a href="https://discord.gg/kzRg6znxKH" target="_blank">Discord</a>
+        </div>
+    </div>
+</body>
+</html>
